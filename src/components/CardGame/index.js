@@ -1,8 +1,10 @@
+import "./style.css";
+
 function CardGame(){
     return `
-        <article>
-            CardGame
-        </article>
+        <div class="card">
+            <img src="./images/alura-pixel.png" alt="Alura">
+        </div>
     `
 }
 
